@@ -1,6 +1,5 @@
-======================================================================
 ALCOLYZE
-======================================================================
+
 App Android per stimare il tasso alcolemico (BAC) e un punteggio di
 "euforia" a partire dai drink e dai pasti registrati durante una serata.
 Il calcolo non è una stima "a occhio": un modello scientifico ricostruisce
