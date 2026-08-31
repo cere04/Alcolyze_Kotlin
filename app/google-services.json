@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "899404424958",
+    "project_id": "alcolyze-35751",
+    "storage_bucket": "alcolyze-35751.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899404424958:android:4aad54cbc63e72fbffe7af",
+        "android_client_info": {
+          "package_name": "com.example.alcolyze"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuwX0-xwsY9smGfQcFsNTmrYsHQa_viq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
